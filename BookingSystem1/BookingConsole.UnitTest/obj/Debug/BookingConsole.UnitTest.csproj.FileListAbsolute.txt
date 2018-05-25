@@ -1,0 +1,16 @@
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\BookingConsole.UnitTest.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\BookingConsole.UnitTest.pdb
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\BookingSystem1.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\BookingSystem1.pdb
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\obj\Debug\BookingConsole.UnitTest.csprojAssemblyReference.cache
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\obj\Debug\BookingConsole.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\obj\Debug\BookingConsole.UnitTest.csproj.CopyComplete
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\obj\Debug\BookingConsole.UnitTest.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole.UnitTest\obj\Debug\BookingConsole.UnitTest.pdb

@@ -1,0 +1,10 @@
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\bin\Debug\BookingConsole.exe.config
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\bin\Debug\BookingConsole.exe
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\bin\Debug\BookingConsole.pdb
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\bin\Debug\BookingSystem1.dll
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\bin\Debug\BookingSystem1.pdb
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\obj\Debug\BookingConsole.csprojAssemblyReference.cache
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\obj\Debug\BookingConsole.csproj.CoreCompileInputs.cache
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\obj\Debug\BookingConsole.csproj.CopyComplete
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\obj\Debug\BookingConsole.exe
+C:\Users\Boxod PC\source\repos\BookingSystem1\BookingConsole\obj\Debug\BookingConsole.pdb
